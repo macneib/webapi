@@ -1,0 +1,14 @@
+/home/macneib/work/flint/webapi/bin/Release/netcoreapp2.2/webapi.deps.json
+/home/macneib/work/flint/webapi/bin/Release/netcoreapp2.2/webapi.runtimeconfig.json
+/home/macneib/work/flint/webapi/bin/Release/netcoreapp2.2/webapi.runtimeconfig.dev.json
+/home/macneib/work/flint/webapi/bin/Release/netcoreapp2.2/webapi.dll
+/home/macneib/work/flint/webapi/bin/Release/netcoreapp2.2/webapi.pdb
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.csprojAssemblyReference.cache
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.csproj.CoreCompileInputs.cache
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.RazorAssemblyInfo.cache
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.RazorAssemblyInfo.cs
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.AssemblyInfoInputs.cache
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.AssemblyInfo.cs
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.RazorTargetAssemblyInfo.cache
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.dll
+/home/macneib/work/flint/webapi/obj/Release/netcoreapp2.2/webapi.pdb
